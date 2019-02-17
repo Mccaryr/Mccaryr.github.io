@@ -22,7 +22,7 @@ permalink:  hello_world_of_webdev
 
 
   I kept applying to other jobs and working odd ones to make money and I got a call one day. A guy from Flatiron talked to me for almost 20min. He never tried to sell me, convince me, or fool me. He motivated me and told me if that's really how I felt, please to apply. That guy changed my life. I'm still surprised I got accepted and that they took a chance on some guy that had no coding experience. But ever since, I've done nothing but code. I think about it, dream about it, and live it. If that's not magical, I don't know what is. 
-	<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/13DrbTqilygxkA" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/13DrbTqilygxkA">via GIPHY</a></p>
+		<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/13DrbTqilygxkA" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/13DrbTqilygxkA">via GIPHY</a></p>
 	
 
 
