@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Def LIFE variables = everything_we_interact_with"
+title:      "Def LIFE variables"
 date:       2019-02-17 17:49:32 -0500
 permalink:  def_life_variables_everything_we_interact_with
 ---
